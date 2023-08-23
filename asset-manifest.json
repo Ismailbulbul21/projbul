@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/projbul/static/css/main.c257cac8.css",
+    "main.js": "/projbul/static/js/main.ff1361f8.js",
+    "static/media/pexels-cátia-matos-1072179.jpg": "/projbul/static/media/pexels-cátia-matos-1072179.b1056b008c3c516f54b6.jpg",
+    "index.html": "/projbul/index.html",
+    "main.c257cac8.css.map": "/projbul/static/css/main.c257cac8.css.map",
+    "main.ff1361f8.js.map": "/projbul/static/js/main.ff1361f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c257cac8.css",
+    "static/js/main.ff1361f8.js"
+  ]
+}
